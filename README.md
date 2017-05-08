@@ -2,6 +2,8 @@
 
 # Sample Media (VOD) App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/media-pwa.svg)](https://greenkeeper.io/)
+
 This is a sample media app to demonstrate media functionality in the context of a Progressive Web App. The build of this site is being cataloged on YouTube as part of the
 [Chrome Developers Developer Diary](https://www.youtube.com/playlist?list=PLNYkxOF6rcIBykcJ7bvTpqU7vt-oey72J) series.
 
